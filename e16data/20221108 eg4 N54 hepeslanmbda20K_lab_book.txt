@@ -1,0 +1,6 @@
+_Session lab book file: C:/Users/seagt/EDR/Labbook/labs_10-11-2022_09-47-21.txt
+_Started recording: 周四 11月 10 14:41:01 2022
+_Lab book notes:
+_Range: 2 nA
+_Sampling frequency (SR): 5 kHz
+_Final Bandwidth: SR/2 (no filter)

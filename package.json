@@ -1,0 +1,22 @@
+{
+  "name": "py_eda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzenghui2007/py_eda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzenghui2007/py_eda/issues"
+  },
+  "homepage": "https://github.com/liuzenghui2007/py_eda#readme",
+  "dependencies": {
+    "npyjs": "^0.4.0"
+  }
+}
